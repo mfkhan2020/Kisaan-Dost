@@ -1,0 +1,13 @@
+{
+  "name": "Kisaan Dost",
+  "description": "Expert agronomist assistant for Pakistani farmers. Identify crops and diseases from photos with organic and chemical solutions in Roman Urdu.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Image analysis",
+    "Agronomy expert",
+    "Roman Urdu support"
+  ]
+}
